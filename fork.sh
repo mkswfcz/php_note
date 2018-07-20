@@ -1,2 +1,2 @@
 #!/bin/bash
-php fork.php >> log/fork.log
+php example/fork.php >> log/fork.log
